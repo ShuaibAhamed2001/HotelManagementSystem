@@ -1,0 +1,1 @@
+A web-based Hotel Management System with AI Chatbot integration to manage bookings, users, and hotel services. Features include user registration, room reservation, admin dashboard, and a chatbot for real-time assistance and improved user experience.
